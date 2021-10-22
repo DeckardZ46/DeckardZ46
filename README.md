@@ -1,4 +1,6 @@
-### Hi there 👋
+### Computer Game Engineering Postgraduate student 
+### Worked as back-end developer
+### Southeast University & Newcastle University
 
 <!--
 **LobotomyToCalm/LobotomyToCalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
