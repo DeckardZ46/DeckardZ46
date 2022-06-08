@@ -1,5 +1,5 @@
 
-<h1 align = "center">👋Hello</h1>
+<h1 align = "center">👋Welcome to my Github page</h1>
 <h3 align = "center">--------------------ABOUT ME--------------------</h3>
 <p align = "center">
 🎮Computer Game Engineering Postgraduate student.  
