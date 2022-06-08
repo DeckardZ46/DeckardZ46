@@ -1,9 +1,10 @@
 
 <h1 align = "center">👋Hello</h1>
+<h3 align = "center">--------------------ABOUT ME--------------------</h3>
 <p align = "center">
-🎮I'm a Computer Game Engineering Postgraduate student.  
+🎮Computer Game Engineering Postgraduate student.  
 <p align = "center">
-💻I Worked as back-end developer.   
+💻Worked as back-end developer.   
 <p align = "center">
 📖Southeast University & Newcastle University.  
 <p align = "center">
