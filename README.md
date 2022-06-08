@@ -6,7 +6,7 @@
 <p align = "center">
 💻Worked as back-end developer.   
 <p align = "center">
-📖Southeast University & Newcastle University.  
+📖Southeast University🇨🇳 & Newcastle University🇬🇧.  
 <p align = "center">
 🎸Guitar player, music producer, Rocker.
   
