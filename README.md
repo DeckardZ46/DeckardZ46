@@ -12,6 +12,6 @@
 
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckardZ46&hide=c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
-[![deckard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeckardZ46&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![deckard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeckardZ46)](https://github.com/anuraghazra/github-readme-stats)
 
 
