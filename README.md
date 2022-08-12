@@ -4,7 +4,7 @@
 <p align = "center">
 🎮Computer Game Engineering Postgraduate student.  
 <p align = "center">
-💻Worked as back-end developer.   
+💻Worked as back-end developer in Tencent.   
 <p align = "center">
 📖Southeast University🇨🇳 & Newcastle University🇬🇧.  
 <p align = "center">
