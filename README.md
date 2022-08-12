@@ -8,7 +8,7 @@
 <p align = "center">
 📖Southeast University🇨🇳 & Newcastle University🇬🇧.  
 <p align = "center">
-🎸Guitar player, music producer, Rocker.
+🎸Guitar player, music producer.
 
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeckardZ46&hide=c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
