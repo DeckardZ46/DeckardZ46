@@ -14,6 +14,6 @@
 
 ***
   
-[![deckard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeckardZ46&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![deckard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeckardZ46&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
