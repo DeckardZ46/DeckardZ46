@@ -13,7 +13,7 @@
 🎮In my heart, I'm a Gamer.
 
 ***
-  
+<p align = "center">
 [![deckard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeckardZ46&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
