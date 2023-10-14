@@ -4,7 +4,9 @@
 <p align = "center">
 👨‍🎓Computer Game Engineering Postgraduate.  
 <p align = "center">
-💻Former back-end developer from Tencent.   
+💻Former back-end developer @Tencent.   
+<p align = "center">
+💻XR developer @Oppo
 <p align = "center">
 📖Southeast University🇨🇳 & Newcastle University🇬🇧.  
 <p align = "center">
