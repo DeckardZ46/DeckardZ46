@@ -2,8 +2,6 @@
 <h1 align = "center">👋Welcome to my Github page</h1>
 <h3 align = "center">--------------------ABOUT ME--------------------</h3>
 <p align = "center">
-👨‍🎓Computer Game Engineering Postgraduate.  
-<p align = "center">
 💻Former back-end developer @Tencent.   
 <p align = "center">
 💻XR developer @Oppo
