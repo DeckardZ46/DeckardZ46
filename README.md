@@ -1,6 +1,6 @@
 
-<h1 align = "center">👋Welcome to my Github page</h1>
-<h3 align = "center">--------------------ABOUT ME--------------------</h3>
+<h1 align = "center">👋Welcome to my Github page
+<h3 align = "center">--------------------ABOUT ME--------------------
 <p align = "center">
 💻Former back-end developer @Tencent.   
 <p align = "center">
