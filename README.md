@@ -6,7 +6,7 @@
 <p align = "center">
 💻Former back-end developer @Tencent.   
 <p align = "center">
-💻XR developer @Oppo
+💻Graphics developer @Oppo
 <p align = "center">
 📖Southeast University🇨🇳 & Newcastle University🇬🇧.  
 <p align = "center">
