@@ -6,7 +6,9 @@
 <p align = "center">
 💻Former back-end developer @Tencent.   
 <p align = "center">
-💻Graphics developer @Oppo
+💻Former Graphics developer @Oppo  
+<p align = "center">
+💻Game Engine developer @Qualcomm
 <p align = "center">
 📖Southeast University🇨🇳 & Newcastle University🇬🇧.  
 <p align = "center">
