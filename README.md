@@ -4,11 +4,9 @@
 <h3 align = "center">
 --------------------ABOUT ME--------------------</h3>
 <p align = "center">
-💻Former back-end developer @Tencent.   
+Graphics & Game Engine Developer
 <p align = "center">
-💻Former Graphics developer @Oppo  
-<p align = "center">
-💻Game Engine developer @Qualcomm
+Tencent -> OPPO -> Qualcomm
 <p align = "center">
 📖Southeast University🇨🇳 & Newcastle University🇬🇧.  
 <p align = "center">
