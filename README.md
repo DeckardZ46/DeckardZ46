@@ -13,8 +13,3 @@ Tencent -> OPPO -> Qualcomm
 🎸Guitar player, music producer.
 <p align = "center">
 🎮In my heart, I'm a Gamer.
-
-***
-[![deckard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeckardZ46&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
